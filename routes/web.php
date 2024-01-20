@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 Route::get('/', 'App\Http\Controllers\Front\FrontController@index');
 Route::get('about-us', 'App\Http\Controllers\Front\FrontController@aboutus')->name('about-us');
+Route::get('services', 'App\Http\Controllers\Front\FrontController@services')->name('services');
 Route::get('team', 'App\Http\Controllers\Front\FrontController@team')->name('team');
 Route::get('consulting', 'App\Http\Controllers\Front\FrontController@consulting')->name('consulting');
 Route::get('howcan-we-help', 'App\Http\Controllers\Front\FrontController@howcanwehelp')->name('howcan-we-help');

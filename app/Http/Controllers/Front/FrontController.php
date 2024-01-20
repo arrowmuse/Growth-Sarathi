@@ -11,7 +11,11 @@ class FrontController extends Controller
     {
         return view('home');
     }
-    public function aboutus()
+    public function services()
+    {
+        return view('services');
+    }
+     public function aboutus()
     {
         return view('about');
     }
