@@ -68,11 +68,11 @@
                </div>
             </div>
          </div>
-         @include('body.header')
+         @include('front.body.header')
 
                 @yield('content')
          
-         @include('body.footer')
+         @include('front.body.footer')
       </div>
   
       <script type='text/javascript' src="{{asset('wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-trackerf86b.js?ver=1.16.2')}}"></script>

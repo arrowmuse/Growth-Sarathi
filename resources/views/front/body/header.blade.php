@@ -62,26 +62,20 @@
                         </li>
                         <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-43">
                            <a href="{{ url('about-us')}}">About</a>
-                           <ul class="sub-menu">
-                              <li id="menu-item-1582" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-1582"><a href="{{ url('about-us')}}">About Us</a></li>
-                              <li id="menu-item-2494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2494"><a href="{{ url('team')}}">Our Team</a></li>
-                           </ul>
                         </li>
-                        <li id="menu-item-1580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1580">
+                       <!--  <li id="menu-item-1580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1580">
                            <a href="{{ url('consulting')}}">Consulting</a>
                            <ul class="sub-menu">
                               <li id="menu-item-2454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2454"><a href="{{ url('consulting')}}">Consulting</a></li>
                               <li id="menu-item-2453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2453"><a href="{{ url('howcan-we-help')}}">How Can We Help?</a></li>
                               <li id="menu-item-2499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2499"><a href="{{ url('solutions')}}">Solutions</a></li>
                            </ul>
-                        </li>
+                        </li> -->
                         <li id="menu-item-1580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1580">
-                           <a href="{{ url('operational-excellence')}}">Services</a>
-                           <ul class="sub-menu">
-                              <li id="menu-item-2454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2454"><a href="{{ url('operational-excellence')}}">Operational Excellence</a></li>
-                              <li id="menu-item-2453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2453"><a href="{{ url('marketing-services')}}">Marketing Services</a></li>
-                              <li id="menu-item-2499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2499"><a href="{{ url('fund-raising')}}">Fund Raising</a></li>
-                           </ul>
+                           <a href="{{ url('services')}}">Services</a>
+                        </li>
+                        <li id="menu-item-1579" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-1582">
+                           <a href="{{ route('portfolio')}}">Portfolio</a>
                         </li>
                      </ul>
                   </nav>

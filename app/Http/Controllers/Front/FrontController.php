@@ -9,16 +9,25 @@ class FrontController extends Controller
 {
     public function index()
     {
-        return view('home');
+        return view('front.home');
     }
     public function services()
     {
-        return view('services');
+        return view('front.services');
     }
      public function aboutus()
     {
-        return view('about');
+        return view('front.about');
     }
+    public function contact()
+    {
+        return view('front.contact');
+    }
+    public function portfolio()
+    {
+        return view('front.portfolio');
+    }
+
     public function team()
     {
         return view('team');
@@ -46,10 +55,6 @@ class FrontController extends Controller
     public function fundraising()
     {
         return view('fundraising');
-    }
-    public function contact()
-    {
-        return view('contact');
     }
     public function bookmeeting()
     {

@@ -1,4 +1,4 @@
-@extends('master')
+@extends('front.master')
 @section('content')
 <div class="btContentWrap btClear">
    <div class="btContentHolder">
@@ -23,7 +23,7 @@
                                        </header>
                                        <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_30" data-bt-override-class="null"></div>
                                        <header class="bt_bb_headline bt_bb_subtitle_font_weight_normal bt_bb_dash_none bt_bb_size_extralarge btNoHeadline bt_bb_subheadline bt_bb_align_inherit" data-bt-override-class="{}">
-                                          <div class="bt_bb_headline_subheadline" style="font-size:1.2325rem;">your trusted partner for international trade facilitation.Our mission is to help businesses of all sizes to grow and expand their operations across   borders.   We   specialize   in   providing   a   wide   range   of   services   that   are designed to promote operational excellence, financial excellence, and business growth. Explore our website to learn more about our services and how we can help you achieve your business goals.</div>
+                                          <div class="bt_bb_headline_subheadline" style="font-size:1.2325rem;">Empower your growth-focused organization with cost-effective global sourcing. We simplify the complex world market, connecting you to ideal suppliers for substantial cost reductions and industry leadership.</div>
                                        </header>
                                        <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_50" data-bt-override-class="null"></div>
                                        <div class="bt_bb_button bt_bb_color_scheme_6 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_normal bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit bt_bb_icon_style_filled btWithIcon" style="; --primary-color:#ffffff; --secondary-color:#1659b5;" data-bt-override-class="{}"><a href="tel:+919825897100" target="_self" class="bt_bb_link" title="+91 98258 97100"><span class="bt_bb_button_text" >+91 98258 97100</span><span  data-ico-dripicons="&#xe98e;" class="bt_bb_icon_holder"></span></a></div>
@@ -136,7 +136,7 @@
                               <div  class="bt_bb_column col-xxl-6 col-xl-6 bt_bb_vertical_align_middle bt_bb_align_left bt_bb_padding_normal bt_bb_animation_fade_in animate"  data-width="6" data-bt-override-class="{}">
                                  <div class="bt_bb_column_content">
                                     <div class="bt_bb_column_content_inner">
-                                       <div class="bt_bb_image bt_bb_shape_hard-rounded bt_bb_target_self bt_bb_align_inherit bt_bb_hover_style_simple bt_bb_content_display_always bt_bb_content_align_middle bt_bb_border_visible" data-bt-override-class="{}"><span><img width="1200" height="1200" src="wp-content/uploads/Homepage/Operational_Excellence.jpg" class="attachment-boldthemes_large_square size-boldthemes_large_square" alt="image" decoding="async" loading="lazy" title="service_1"sizes="(max-width: 1200px) 100vw, 1200px" /></span></div>
+                                       <div class="bt_bb_image bt_bb_shape_hard-rounded bt_bb_target_self bt_bb_align_inherit bt_bb_hover_style_simple bt_bb_content_display_always bt_bb_content_align_middle bt_bb_border_visible" data-bt-override-class="{}"><span><img width="1200" height="1200" src="{{asset('wp-content/uploads/Homepage/Operational_Excellence.jpg')}}" class="attachment-boldthemes_large_square size-boldthemes_large_square" alt="image" decoding="async" loading="lazy" title="service_1"sizes="(max-width: 1200px) 100vw, 1200px" /></span></div>
                                     </div>
                                  </div>
                               </div>
@@ -151,7 +151,7 @@
                                        <div class="bt_bb_accordion bt_bb_style_simple bt_bb_shape_square">
                                           <div class="bt_bb_accordion_item btWithIcon">
                                              <div class="bt_bb_accordion_item_title_content">
-                                                <span  data-ico-icon7stroke="&#xe6c0;" class="bt_bb_icon_holder"></span>
+                                                <span data-ico-ippsum="" class="bt_bb_icon_holder"></span>
                                                 <div class="bt_bb_accordion_item_title" style="text-transform:capitalize;">PLAN // Product Planning + Validation</div>
                                              </div>
                                              <div class="bt_bb_accordion_item_content">
@@ -248,7 +248,7 @@
                               <div  class="bt_bb_column col-xxl-6 col-xl-6 bt_bb_vertical_align_top bt_bb_align_left bt_bb_padding_normal bt_bb_animation_fade_in animate"  data-width="6" data-bt-override-class="{}">
                                  <div class="bt_bb_column_content">
                                     <div class="bt_bb_column_content_inner">
-                                       <div class="bt_bb_image bt_bb_shape_hard-rounded bt_bb_target_self bt_bb_align_inherit bt_bb_hover_style_simple bt_bb_content_display_always bt_bb_content_align_middle bt_bb_border_visible" data-bt-override-class="{}"><span><img width="1200" height="1200" src="wp-content/uploads/Homepage/Consulting1.jpg" class="attachment-boldthemes_large_square size-boldthemes_large_square"  decoding="async" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" /></span></div>
+                                       <div class="bt_bb_image bt_bb_shape_hard-rounded bt_bb_target_self bt_bb_align_inherit bt_bb_hover_style_simple bt_bb_content_display_always bt_bb_content_align_middle bt_bb_border_visible" data-bt-override-class="{}"><span><img width="1200" height="1200" src="{{asset('wp-content/uploads/Homepage/Consulting1.jpg')}}" class="attachment-boldthemes_large_square size-boldthemes_large_square"  decoding="async" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" /></span></div>
                                     </div>
                                  </div>
                               </div>
@@ -287,7 +287,7 @@
                                        <div class="bt_bb_card_icon bt_bb_icon_style_borderless bt_bb_border_visible bt_bb_icon_position_on_top WithText bt_bb_colored_icon_color_scheme_14" style="; --card-icon-colored-icon-primary-color:#ddcfbc; --card-icon-colored-icon-secondary-color:#1659b5;">
                                           <div class="bt_bb_card_icon_content">
                                              <div class="bt_bb_card_icon_colored_icon" >
-                                                <img style="max-width: 100px;" src="wp-content/uploads/sites/5/2020/05/001.png" class="attachment-full size-full" decoding="async" loading="lazy">
+                                                <img style="max-width: 100px;" src="{{asset('wp-content/uploads/sites/5/2020/05/001.png')}}" class="attachment-full size-full" decoding="async" loading="lazy">
                                              </div>
                                              <div class="bt_bb_card_icon_text_inner">
                                                 <h6 class="bt_bb_card_icon_title" style="font-size:20px;">Proven Track Record</h6>
@@ -379,7 +379,7 @@
                                        <div class="bt_bb_card_icon bt_bb_icon_style_borderless bt_bb_border_visible bt_bb_icon_position_on_top WithText bt_bb_colored_icon_color_scheme_14" style="; --card-icon-colored-icon-primary-color:#ddcfbc; --card-icon-colored-icon-secondary-color:#1659b5;">
                                           <div class="bt_bb_card_icon_content">
                                              <div class="bt_bb_card_icon_colored_icon" >
-                                                <img style="max-width: 100px;" src="wp-content/uploads/sites/5/2020/05/002.png" class="attachment-full size-full" decoding="async" loading="lazy">
+                                                <img style="max-width: 100px;" src="{{asset('wp-content/uploads/sites/5/2020/05/014.png')}}" class="attachment-full size-full" decoding="async" loading="lazy">
                                              </div>
                                              <div class="bt_bb_card_icon_text_inner">
                                                 <h6 class="bt_bb_card_icon_title" style="font-size:20px;">Global Network</h6>
@@ -393,7 +393,7 @@
                                        <div class="bt_bb_card_icon bt_bb_icon_style_borderless bt_bb_border_visible bt_bb_icon_position_on_top WithText bt_bb_colored_icon_color_scheme_14" style="; --card-icon-colored-icon-primary-color:#ddcfbc; --card-icon-colored-icon-secondary-color:#1659b5;">
                                           <div class="bt_bb_card_icon_content">
                                              <div class="bt_bb_card_icon_colored_icon">
-                                                <img style="max-width: 100px;" src="wp-content/uploads/sites/5/2020/05/003.png" class="attachment-full size-full" decoding="async" loading="lazy">
+                                                <img style="max-width: 100px;" src="{{asset('wp-content/uploads/sites/5/2020/05/007.png')}}" class="attachment-full size-full" decoding="async" loading="lazy">
                                              </div>
                                              <div class="bt_bb_card_icon_text_inner">
                                                 <h6 class="bt_bb_card_icon_title" style="font-size:20px;">Customization</h6>
@@ -413,14 +413,7 @@
                                        <div class="bt_bb_card_icon bt_bb_icon_style_borderless bt_bb_border_visible bt_bb_icon_position_on_top WithText bt_bb_colored_icon_color_scheme_14" style="; --card-icon-colored-icon-primary-color:#ddcfbc; --card-icon-colored-icon-secondary-color:#1659b5;">
                                           <div class="bt_bb_card_icon_content">
                                              <div class="bt_bb_card_icon_colored_icon" >
-                                                <svg id="outline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-                                                   <defs>
-                                                      <style>.cls-1{fill:#2892fc;}.cls-2{fill:#1a2530;}</style>
-                                                   </defs>
-                                                   <title></title>
-                                                   <polygon id="_Path_" data-name="&lt;Path&gt;" class="cls-1" points="57.09 59.15 25.89 41.49 40.07 34.4 72.69 51.38 72.69 74.11 57.09 82.52 57.09 59.15"/>
-                                                   <path id="_Compound_Path_" data-name="&lt;Compound Path&gt;" class="cls-2" d="M94.14,48.19a1.1,1.1,0,1,0-1-1.95L73.79,56.38V51.9L94.14,41.23a1.1,1.1,0,0,0,0-1.95L64.05,23.49a1.11,1.11,0,0,0-1,0L42.35,34.34l-1.77-.92a1.09,1.09,0,0,0-1,0L25.39,40.51a1.1,1.1,0,0,0,0,1.94l.75.42L5.86,53.48a1.1,1.1,0,0,0,0,1.95L35.95,71.21a1.11,1.11,0,0,0,1,0l19-10v4.48L36.46,76,6.88,60.45a1.1,1.1,0,1,0-1,1.95L35.95,78.18a1.11,1.11,0,0,0,1,0l19-10v4.48L36.46,82.93,6.88,67.41a1.1,1.1,0,0,0-1,1.95L35.95,85.14a1.11,1.11,0,0,0,1,0l19-10v4.48L36.46,89.89,6.88,74.38a1.1,1.1,0,0,0-1,1.95L35.95,92.11a1.11,1.11,0,0,0,1,0l19-10v.38a1.1,1.1,0,0,0,1.62,1l15.6-8.4a1.1,1.1,0,0,0,.58-1V72.79L94.14,62.12a1.1,1.1,0,0,0-1-1.95L73.79,70.31V65.83L94.14,55.16a1.1,1.1,0,0,0-1-1.95L73.79,63.34V58.86ZM63.54,25.71,91.26,40.25,72.55,50.07l-3.66-1.91,9.21-4.83a1.1,1.1,0,0,0,0-1.95,2.4,2.4,0,0,1-.79-.59s.1-.26.79-.62a1.1,1.1,0,0,0,0-1.95l-12-6.31a1.11,1.11,0,0,0-1,0,5.53,5.53,0,0,1-5,0,1.1,1.1,0,0,0-1,0L48.39,37.49l-3.66-1.91ZM75.59,42.16l-9.08,4.76-15.75-8.2,8.79-4.61a7.73,7.73,0,0,0,6,0L75.59,39.4a2.24,2.24,0,0,0-.49,1.37A2.27,2.27,0,0,0,75.59,42.16Zm-47.37-.61,8.14-4.07,3.69-1.84,2.29,1.19L46,38.73,48.39,40l15.75,8.2,2.38,1.24,3.66,1.91L57.36,58l-3.51-2-2.28-1.29L36.48,46.22,34.2,44.93l-3.51-2-2.28-1.29Zm-3.83,11,9.77-5.12L49.25,56,40.43,60.6a7.69,7.69,0,0,0-5.95,0L24.4,55.31a2.26,2.26,0,0,0,.48-1.37A2.23,2.23,0,0,0,24.39,52.56ZM36.46,69,8.74,54.46l19.63-10.3,3.51,2-10,5.24a1.1,1.1,0,0,0,0,1.95,2.15,2.15,0,0,1,.8.58,1.77,1.77,0,0,1-.78.62,1.1,1.1,0,0,0,0,1.95l12,6.31a1.1,1.1,0,0,0,1,0,5.5,5.5,0,0,1,5,0,1.11,1.11,0,0,0,1,0l10.57-5.54,3.51,2ZM71.6,64.5v9l-13.4,7.22V60.08l13.4-7V64.5ZM65.28,38.65v2.84a1.1,1.1,0,1,1-2.2,0V38.65a1.1,1.1,0,0,1,2.2,0Zm-30.57,17V52.84a1.1,1.1,0,0,1,2.2,0v2.84a1.1,1.1,0,0,1-2.2,0Zm-12.77-27a1.1,1.1,0,0,1,1.1-1.1H26.2V24.47a1.1,1.1,0,0,1,2.2,0v3.16h3.16a1.1,1.1,0,1,1,0,2.2H28.4V33a1.1,1.1,0,0,1-2.2,0V29.82H23A1.1,1.1,0,0,1,21.95,28.72ZM33.3,13.12A1.1,1.1,0,0,1,34.4,12h3.16V8.87a1.1,1.1,0,1,1,2.2,0V12h3.16a1.1,1.1,0,0,1,0,2.2H39.75v3.16a1.1,1.1,0,1,1-2.2,0V14.22H34.4A1.1,1.1,0,0,1,33.3,13.12Z"/>
-                                                </svg>
+                                                <img style="max-width: 100px;" src="{{asset('wp-content/uploads/sites/5/2020/05/003.png')}}" class="attachment-full size-full" decoding="async" loading="lazy">
                                              </div>
                                              <div class="bt_bb_card_icon_text_inner">
                                                 <h6 class="bt_bb_card_icon_title" style="font-size:20px;">Industry Expertise</h6>
@@ -530,13 +523,13 @@
                                     <div class="bt_bb_column_content_inner">
                                        <div class="bt_bb_floating_image bt_bb_floating_image_horizontal_position_left bt_bb_floating_image_vertical_position_top bt_bb_floating_image_animation_delay_default bt_bb_floating_image_animation_duration_2500 bt_bb_floating_image_animation_style_ease_out bt_bb_hidden_xs bt_bb_hidden_ms bt_bb_hidden_sm" style="left: -1em; top: -3em;" data-speed="0.4" data-direction="">
                                           <div class="bt_bb_floating_image_image" data-speed="0.4" data-direction="" style="transform: translateY(-16.4112px);">
-                                             <div class="bt_bb_image" data-bt-override-class="{}"><span><img width="62" height="61" src="wp-content/uploads/sites/5/2020/06/floating_image_1.png" class="attachment-full size-full" decoding="async"></span>
+                                             <div class="bt_bb_image" data-bt-override-class="{}"><span><img width="62" height="61" src="{{asset('wp-content/uploads/sites/5/2020/06/floating_image_1.png')}}" class="attachment-full size-full" decoding="async"></span>
                                              </div>
                                           </div>
                                        </div>
                                        <div class="bt_bb_floating_image bt_bb_floating_image_horizontal_position_right bt_bb_floating_image_vertical_position_top bt_bb_floating_image_animation_delay_default bt_bb_floating_image_animation_duration_5000 bt_bb_floating_image_animation_style_ease_out bt_bb_hidden_xs bt_bb_hidden_ms bt_bb_hidden_sm" style="right: -7em; top: -3em;" data-speed="0.6" data-direction="">
                                           <div class="bt_bb_floating_image_image" data-speed="0.6" data-direction="" style="transform: translateY(-21.2569px);">
-                                             <div class="bt_bb_image" data-bt-override-class="{}"><span><img width="81" height="13" src="wp-content/uploads/sites/5/2020/06/floating_image_2.png" class="attachment-full size-full"  decoding="async"></span></div>
+                                             <div class="bt_bb_image" data-bt-override-class="{}"><span><img width="81" height="13" src="{{asset('wp-content/uploads/sites/5/2020/06/floating_image_2.png')}}" class="attachment-full size-full"  decoding="async"></span></div>
                                           </div>
                                        </div>
                                         
@@ -903,21 +896,22 @@
                                              <div class="btContact btGradient btUnderline">
                                                 <div class="btContactRow">
                                                    <div class="btContactColumn">
-                                                      <p><span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" type="text" name="name" value="<?php echo !empty($postData['name'])?$postData['name']:''; ?>" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name"></span>
+                                                      <p><span class="wpcf7-form-control-wrap" data-name="your-name">
+                                                         <input size="40" type="text" name="name" value="<?php echo !empty($postData['name'])?$postData['name']:''; ?>" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name" required></span>
                                                       </p>
                                                    </div>
                                                    <div class="btContactColumn">
-                                                      <p><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" type="email" name="email" value="<?php echo !empty($postData['email'])?$postData['email']:''; ?>" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="E-mail" ></span>
+                                                      <p><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" type="email" name="email" value="<?php echo !empty($postData['email'])?$postData['email']:''; ?>" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="E-mail" required></span>
                                                       </p>
                                                    </div>
                                                 </div>
                                                 <div class="btContactRow">
                                                    <div class="btContactColumn">
-                                                      <p><span class="wpcf7-form-control-wrap" data-name="your-company"><input size="40" type="text" name="company" value="<?php echo !empty($postData['company'])?$postData['company']:''; ?>" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Company (optional)" ></span>
+                                                      <p><span class="wpcf7-form-control-wrap" data-name="your-company"><input size="40" type="text" name="company" value="<?php echo !empty($postData['company'])?$postData['company']:''; ?>" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Company" required></span>
                                                       </p>
                                                    </div>
                                                    <div class="btContactColumn">
-                                                      <p><span class="wpcf7-form-control-wrap" data-name="your-phone"><input size="40"  type="text" name="phone" value="<?php echo !empty($postData['phone'])?$postData['phone']:''; ?>" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel" aria-invalid="false" placeholder="Phone (optional)"></span>
+                                                      <p><span class="wpcf7-form-control-wrap" data-name="your-phone"><input size="40"  type="text" name="phone" value="<?php echo !empty($postData['phone'])?$postData['phone']:''; ?>" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel" aria-invalid="false" placeholder="Phone" required></span>
                                                       </p>
                                                    </div>
                                                 </div>

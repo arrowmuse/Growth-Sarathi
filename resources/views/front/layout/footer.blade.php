@@ -1,16 +1,16 @@
 <div class="btSiteFooter">
    <div class="bt_bb_wrapper">
-      <section id="bt_bb_section6475c3f0c72e1" data-parallax="0.7" data-parallax-offset="0" class="bt_bb_section bt_bb_color_scheme_1 bt_bb_layout_boxed_1200 bt_bb_top_coverage_left_large_triangle bt_bb_vertical_align_top btLazyLoadBackground bt_bb_background_image bt_bb_parallax bt_bb_background_overlay_dark_solid bt_bb_top_spacing_extra_large bt_bb_bottom_spacing_large bt_bb_section_allow_content_outside btLazyLoaded" style="background-image: url(wp-content/uploads/sites/5/2020/07/background_footer_02.jpg); --section-primary-color: #ffffff; --section-secondary-color: #000000; background-position-y: -47.9022px;" data-bt-override-class="null">
+      <section id="bt_bb_section647093deb8bdd" data-parallax="0.7" data-parallax-offset="0" data-background_image_src="'https://ippsum.bold-themes.com/pax/wp-content/uploads/sites/5/2020/05/background_footer_01.jpg'" class="bt_bb_section bt_bb_color_scheme_6 bt_bb_layout_boxed_1200 bt_bb_top_coverage_left_large_triangle bt_bb_vertical_align_top btLazyLoadBackground bt_bb_background_image bt_bb_parallax bt_bb_top_spacing_extra_large bt_bb_bottom_spacing_large" style="background-image:url(https://ippsum.bold-themes.com/pax/wp-content/uploads/sites/5/2020/05/background_footer_01.jpg);--section-primary-color:#ffffff; --section-secondary-color:#09449f;" data-bt-override-class="null">
          <div class="bt_bb_port">
             <div class="bt_bb_cell">
                <div class="bt_bb_cell_inner">
                   <div class="bt_bb_row_wrapper">
                      <div  class="bt_bb_row"  data-bt-override-class="{}">
-                        <div  class="bt_bb_column col-xxl-2 col-xl-2 bt_bb_vertical_align_top bt_bb_align_left bt_bb_padding_normal bt_bb_animation_fade_in animate"  data-width="2" data-bt-override-class="{}">
+                        <div  class="bt_bb_column col-xxl-4 col-xl-4 bt_bb_vertical_align_top bt_bb_align_left bt_bb_padding_normal bt_bb_animation_fade_in animate"  data-width="4" data-bt-override-class="{}">
                            <div class="bt_bb_column_content">
                               <div class="bt_bb_column_content_inner">
                                  <div class="bt_bb_image bt_bb_shape_square bt_bb_target_self bt_bb_align_inherit bt_bb_hover_style_simple bt_bb_content_display_always bt_bb_content_align_middle" data-bt-override-class="{}"><span>
-                                    <img width="120" height="28" src="wp-content/uploads/logo/logo_white.png" class="attachment-full size-full" decoding="async" loading="lazy" title="footer_logo_02" />
+                                    <img width="250" src="{{asset('wp-content/uploads/logo/logo_white.png')}}" class="attachment-full size-full" decoding="async" loading="lazy" title="footer_logo_02"/>
                                     </span>
                                  </div>
                                  <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium" data-bt-override-class="null"></div>
@@ -21,16 +21,17 @@
                            <div class="bt_bb_column_content">
                               <div class="bt_bb_column_content_inner">
                                  <header class="bt_bb_headline bt_bb_dash_none bt_bb_size_extrasmall bt_bb_align_inherit" data-bt-override-class="{}">
-                                    <h5 class="bt_bb_headline_tag"><span class="bt_bb_headline_content"><span>Product</span></span></h5>
+                                    <h5 class="bt_bb_headline_tag"><span class="bt_bb_headline_content"><span>Links</span></span></h5>
                                  </header>
                                  <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_small" data-bt-override-class="null"></div>
                                  <div class="bt_bb_custom_menu bt_bb_direction_vertical">
                                     <div class="menu-custom-menu-container">
                                        <ul id="menu-custom-menu" class="menu">
                                           <li id="menu-item-1288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1288"><a href="{{ url('/')}}">Home</a></li>
-                                          <li id="menu-item-1289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1289"><a href="{{ url('about-us')}}">About</a></li>
-                                          <li id="menu-item-1289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1289"><a href="{{ url('team')}}">Team</a></li>
-                                          <li id="menu-item-1291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1291"><a href="{{ url('contact')}}">Contact</a></li>
+                                          <li id="menu-item-1289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1289"><a href="{{ route('about-us')}}">About</a></li>
+                                          <li id="menu-item-1289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1289"><a href="{{ route('services')}}">Services</a></li>
+                                          <li id="menu-item-1289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1289"><a href="{{ route('portfolio')}}">Portfolio</a></li>
+                                          <li id="menu-item-1291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1291"><a href="{{ route('contact')}}">Contact</a></li>
                                        </ul>
                                     </div>
                                  </div>
@@ -42,41 +43,18 @@
                            <div class="bt_bb_column_content">
                               <div class="bt_bb_column_content_inner">
                                  <header class="bt_bb_headline bt_bb_dash_none bt_bb_size_extrasmall bt_bb_align_inherit" data-bt-override-class="{}">
-                                    <h5 class="bt_bb_headline_tag"><span class="bt_bb_headline_content"><span>Consulting</span></span></h5>
+                                    <h5 class="bt_bb_headline_tag"><span class="bt_bb_headline_content"><span>Services</span></span></h5>
                                  </header>
                                  <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_small" data-bt-override-class="null"></div>
                                  <div class="bt_bb_custom_menu bt_bb_direction_vertical">
                                     <div class="menu-custom-menu-container">
                                        <ul id="menu-custom-menu" class="menu">
-                                          <li id="menu-item-1288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1288"><a href="{{ url('/')}}">Home</a></li>
-                                          <li id="menu-item-1289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1289"><a href="{{ url('consulting')}}">Consulting</a></li>
-                                          <li id="menu-item-1289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1289"><a href="{{ url('howcan-we-help')}}">How Can We Help ?</a></li>
-                                          <li id="menu-item-1291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1291"><a href="solution">Solution</a></li>
+                                          <li id="menu-item-1288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1288"><a href="{{ route('services')}}"> Product Planning + Validation</a></li>
+                                          <li id="menu-item-1289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1289"><a href="{{ route('services')}}"> Sourcing + Samples</a></li>
+                                          <li id="menu-item-1289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1289"><a href="{{ route('services')}}"> Inspection + Production</a></li>
+                                          <li id="menu-item-1291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1291"><a href="{{ route('services')}}">Shipping + Prep Guidance</a></li>
                                        </ul>
                                     </div>
-                                 </div>
-                                 <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium" data-bt-override-class="null"></div>
-                              </div>
-                           </div>
-                        </div>
-                        <div  class="bt_bb_column col-xxl-2 col-xl-2 bt_bb_vertical_align_top bt_bb_align_left bt_bb_padding_normal bt_bb_animation_fade_in animate"  data-width="4" data-bt-override-class="{}">
-                           <div class="bt_bb_column_content">
-                              <div class="bt_bb_column_content_inner">
-                                 <header class="bt_bb_headline bt_bb_dash_none bt_bb_size_extrasmall bt_bb_align_inherit" data-bt-override-class="{}">
-                                    <h5 class="bt_bb_headline_tag"><span class="bt_bb_headline_content"><span>Services</span></span></h5>
-                                 </header>
-                                 <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_small" data-bt-override-class="null"></div>
-                                 <div class="bt_bb_custom_menu bt_bb_direction_vertical">
-                                    <div class="menu-company-menu-container">
-                                       <ul id="menu-company-menu" class="menu">
-                                          <li id="menu-item-2763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2763"><a href="{{ url('operational-excellence')}}">Operational Excellence</a></li>
-                                          <li id="menu-item-2764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2764"><a href="{{ url('marketing-services')}}">Marketing Services</a></li>
-                                          <li id="menu-item-2762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2762"><a href="{{ url('fund-raising')}}">Fund Raising</a></li>
-                                       </ul>
-                                    </div>
-                                 </div>
-                                 <div class="bt_bb_floating_image bt_bb_floating_image_horizontal_position_right bt_bb_floating_image_vertical_position_top bt_bb_floating_image_animation_delay_default bt_bb_floating_image_animation_duration_default bt_bb_floating_image_animation_style_ease_out" style="right: 28em; top: 4em;" data-speed="1.0"data-direction="" >
-                                    <div class="bt_bb_floating_image_image" data-speed="1.0" data-direction="" ></div>
                                  </div>
                                  <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium" data-bt-override-class="null"></div>
                               </div>

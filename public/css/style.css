@@ -1564,3 +1564,7 @@ p.stars a[class^="star-"]:hover:after {
     font-family: Specific;
     content: attr(data-ico-specific);
 }
+
+.network_section{
+    padding: 7%;
+}
