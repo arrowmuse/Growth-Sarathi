@@ -86,9 +86,8 @@
                                  </div>
                                  <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_small" data-bt-override-class="null"></div>
                                  <div  class="bt_bb_text" >
-                                    <p>101, 1st Floor, MU Chambers, Opp.
-                                       Anupam<br> Annapolis, Station Road,
-                                       Goregaon,<br> Mumbai-400063
+                                    <p>3067, Silver Business Point, VIP Circle, Opp. <br>
+                                       Royal Square, Uttran, Surat <br>Gujarat-394105
                                     </p>
                                  </div>
                                  <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>

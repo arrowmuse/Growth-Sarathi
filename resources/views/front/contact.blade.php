@@ -24,7 +24,7 @@
                                        </header>
                                        <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
                                        <div class="bt_bb_text">
-                                          <div class="bt_bb_button bt_bb_color_scheme_13 bt_bb_icon_position_left bt_bb_style_filled_gradient bt_bb_size_normal bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#09449f; --secondary-color:#3366cc;" data-bt-override-class="{}"><a href="{{asset('wp-content/uploads/Growth_Sarathi.pdf')}}" download="Growth_Sarathi.pdf" class="bt_bb_link"><span class="bt_bb_button_text">Download Business Profile</span></a></div>
+                                
                                           <div class="bt_bb_button bt_bb_color_scheme_13 bt_bb_icon_position_left bt_bb_style_filled_gradient bt_bb_size_normal bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#09449f; --secondary-color:#3366cc;" data-bt-override-class="{}"><a href="https://calendly.com/growthsarathi/consulting-meeting-purpose" target="_blank" class="bt_bb_link" title="Book A Meeting">Book a FREE Call</span></a></div>
                                        </div>
                                        <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal bt_bb_hidden_xs bt_bb_hidden_ms bt_bb_hidden_sm" data-bt-override-class="null"></div>
@@ -52,22 +52,7 @@
                                        <header class="bt_bb_headline bt_bb_supertitle_style_accent bt_bb_dash_none bt_bb_size_normal bt_bb_superheadline bt_bb_align_inherit" data-bt-override-class="{}">
                                           <h4 class="bt_bb_headline_tag"><span class="bt_bb_headline_superheadline"><span>DO YOU HAVE A PROJECT IN MIND?</span></span><span class="bt_bb_headline_content"><span>Let's Get In Touch</span></span></h4>
                                        </header>
-                                       <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium" data-bt-override-class="null"></div>
-                                       <header class="bt_bb_headline bt_bb_color_scheme_4 bt_bb_dash_none bt_bb_size_small bt_bb_align_inherit" style="; --headline-primary-color:#09449f; --headline-secondary-color:#ffffff;" data-bt-override-class="{}">
-                                          <h3 class="bt_bb_headline_tag"><span class="bt_bb_headline_content"><span> Corporate Office</span></span></h3>
-                                       </header>
-                                       <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
-                                       <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="max-width: 350px;; --primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}"><span data-ico-dripicons="" class="bt_bb_icon_holder"><span>101, 1st Floor, MU Chambers, Opp. Anupam Annapolis, Station Road, Goregaon, Mumbai-400063
-                                          </span></span>
-                                       </div>
                                        <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_extra_small" data-bt-override-class="null"></div>
-                                       <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_font_weight_normal bt_bb_position_top" style="; --primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}">
-                                          <span data-ico-dripicons="" class="bt_bb_icon_holder">
-                                          <span><a href="tel:+917208000989">+917208000989</a></span>
-                                          </span>
-                                       </div>
-                                       <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_extra_small" data-bt-override-class="null"></div>
-                                       <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_font_weight_normal" style="; --primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}"><span data-ico-dripicons="" class="bt_bb_icon_holder"><span>anindita@growthsarathi.com</span></span></div>
                                        <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
                                        <header class="bt_bb_headline bt_bb_color_scheme_4 bt_bb_dash_none bt_bb_size_small bt_bb_align_inherit" style="; --headline-primary-color:#09449f; --headline-secondary-color:#ffffff;" data-bt-override-class="{}">
                                           <h3 class="bt_bb_headline_tag"><span class="bt_bb_headline_content"><span>Registered Office</span></span></h3>
