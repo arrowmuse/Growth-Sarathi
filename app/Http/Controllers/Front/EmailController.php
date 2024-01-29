@@ -12,9 +12,9 @@ class EmailController extends Controller
     public function submitForm(Request $request)
     {
         // Email settings
-        $toEmail = 'sarliyachetan@gmail.com'; // Recipient email
+        $toEmail = 'chirag@growthsarathi.com'; // Recipient email
         $from = 'sender@example.com'; // Sender email
-        $fromName = 'Arrowmech'; // Sender name
+        $fromName = 'Growth Sarathi'; // Sender name
 
         // Get the submitted form data
         $name = trim($request->input('name'));
@@ -37,15 +37,15 @@ class EmailController extends Controller
         $this->validate($request, $validationRules);
 
         // Email subject
-        $emailSubject = 'Growth Sarathi Inquiry ' . $name;
+        $emailSubject = 'Growth Sarathi Inquiry From Website ' . $name;
 
         // Email message
         $htmlContent = '
-                Growth Sarathi Inquiry From Website
+                
                 Name:' . $name . '
                 Compny Name:' . $company . '
                 Email: ' . $email . '
-                Phone:</b> ' . $phone . '
+                Phone:' . $phone . '
                 Message:' . $message . '';
 
         // Send email

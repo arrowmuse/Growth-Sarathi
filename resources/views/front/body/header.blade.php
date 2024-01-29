@@ -4,7 +4,7 @@
             <div class="topBarPort port bt-clear">
                <div class="topTools btTopToolsLeft">
                   <div class="btIconWidget  btWidgetWithText">
-                     <div class="btIconWidgetContent"><span class="btIconWidgetTitle">Address :</span><span class="btIconWidgetText">3067, Silver Business Point, VIP Circle, Opp. Royal Square, Uttran, Surat (Gujarat) 394105</span></div>
+                     <div class="btIconWidgetContent"><span class="btIconWidgetTitle">Address :</span><span class="btIconWidgetText">3067, Silver Business Point, VIP Circle, Opp. Royal Square, Uttran, Surat | Gujarat - 394105</span></div>
                   </div>
              
                   <div class="btIconWidget  btWidgetWithText">
