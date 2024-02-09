@@ -562,7 +562,7 @@
             </section>
             <!-- End: section how can we help -->
             <!-- Start:: Brand Logo 1-->
-            <section id="bt_bb_section647052b89af31"  class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_top bt_bb_top_spacing_large bt_bb_bottom_spacing_large"  data-bt-override-class="null" style="margin-top:-7em;">
+            <!--<section id="bt_bb_section647052b89af31"  class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_top bt_bb_top_spacing_large bt_bb_bottom_spacing_large"  data-bt-override-class="null" style="margin-top:-7em;">
                <div class="bt_bb_port">
                   <div class="bt_bb_cell">
                      <div class="bt_bb_cell_inner">
@@ -632,10 +632,10 @@
                      </div>
                   </div>
                </div>
-            </section>
+            </section> -->
             <!-- End:: Brand logo -->
             <!-- Start:: Brand Logo 2-->
-            <section id="bt_bb_section647052b89af31"  class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_top bt_bb_top_spacing_large bt_bb_bottom_spacing_large"  data-bt-override-class="null" style="margin-top:-16em; margin-bottom:-16em;">
+            <!--<section id="bt_bb_section647052b89af31"  class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_top bt_bb_top_spacing_large bt_bb_bottom_spacing_large"  data-bt-override-class="null" style="margin-top:-16em; margin-bottom:-16em;">
                <div class="bt_bb_port">
                   <div class="bt_bb_cell">
                      <div class="bt_bb_cell_inner">
@@ -704,10 +704,10 @@
                      </div>
                   </div>
                </div>
-            </section>
+            </section>-->
             <!-- End:: Brand logo -->
             <!-- Start:: Brand Logo 3-->
-            <section id="bt_bb_section647052b89af31"  class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_top bt_bb_top_spacing_large bt_bb_bottom_spacing_large"  data-bt-override-class="null">
+            <!--<section id="bt_bb_section647052b89af31"  class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_top bt_bb_top_spacing_large bt_bb_bottom_spacing_large"  data-bt-override-class="null">
                <div class="bt_bb_port">
                   <div class="bt_bb_cell">
                      <div class="bt_bb_cell_inner">
@@ -771,10 +771,10 @@
                      </div>
                   </div>
                </div>
-            </section>
+            </section>-->
             <!-- End:: Brand logo -->
             <!-- Start::Testimonial -->
-            <section id="bt_bb_section647052b89eba3"  class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_top"  data-bt-override-class="null">
+            <!--<section id="bt_bb_section647052b89eba3"  class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_top"  data-bt-override-class="null">
                <div class="bt_bb_port">
                   <div class="bt_bb_cell">
                      <div class="bt_bb_cell_inner">
@@ -825,8 +825,8 @@
                      </div>
                   </div>
                </div>
-         </div>
-         </section>
+            </div>
+            </section>-->
          <!-- End::Testimonial -->
          <!-- Start::News and Blog Updates -->
          <section id="bt_bb_section64788f00aa3b2" data-parallax="0.7" data-parallax-offset="-200" data-background_image_src="'https://ippsum.bold-themes.com/pax/wp-content/uploads/sites/5/2020/07/background_dots_04.png'" class="bt_bb_section bt_bb_color_scheme_2 bt_bb_layout_boxed_1200 bt_bb_vertical_align_top btLazyLoadBackground bt_bb_background_image bt_bb_parallax bt_bb_top_spacing_large bt_bb_bottom_spacing_medium btLazyLoaded" style="background-image: url(&quot;https://ippsum.bold-themes.com/pax/wp-content/uploads/sites/5/2020/07/background_dots_04.png&quot;); --section-primary-color: #000000; --section-secondary-color: #ffffff; background-position-y: -228.004px;" data-bt-override-class="null">

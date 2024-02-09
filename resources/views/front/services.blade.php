@@ -4,7 +4,7 @@
    <div class="btContentHolder">
       <div class="btContent">
          <div class="bt_bb_wrapper">
-            <section id="bt_bb_section64798df6015a9" data-parallax="0.6" data-parallax-offset="0" class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_bottom_coverage_left_triangle bt_bb_vertical_align_top bt_bb_background_image bt_bb_parallax bt_bb_top_spacing_large bt_bb_bottom_spacing_large" style="background-image: url(wp-content/uploads/sites/5/2020/05/hero_faq.jpg); background-position-y: -24.004px;" data-bt-override-class="null">
+            <section id="bt_bb_section64798df6015a9" data-parallax="0.6" data-parallax-offset="0" class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_bottom_coverage_left_triangle bt_bb_vertical_align_top bt_bb_background_image bt_bb_parallax bt_bb_top_spacing_large bt_bb_bottom_spacing_large" style="background-image: url(wp-content/uploads/sites/5/2020/05/service.jpg); background-position-y: -24.004px;" data-bt-override-class="null">
                <div class="bt_bb_port">
                   <div class="bt_bb_cell">
                      <div class="bt_bb_cell_inner">
@@ -27,15 +27,6 @@
                                        </div>
                                        <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium" data-bt-override-class="null"></div>
                                        <div class="bt_bb_button bt_bb_color_scheme_13 bt_bb_icon_position_left bt_bb_style_filled_gradient bt_bb_size_normal bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#09449f; --secondary-color:#3366cc;" data-bt-override-class="{}"><a href="https://calendly.com/growthsarathi/consulting-meeting-purpose" target="_blank" class="bt_bb_link" title="Book A Meeting">Book a FREE Call</span></a></div>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="bt_bb_column col-xxl-6 col-xl-6 bt_bb_vertical_align_middle bt_bb_align_center bt_bb_padding_normal bt_bb_animation_fade_in animate animated" data-width="6" data-bt-override-class="{}">
-                                 <div class="bt_bb_column_content">
-                                    <div class="bt_bb_column_content_inner">
-                                       <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium bt_bb_hidden_xs bt_bb_hidden_ms bt_bb_hidden_sm" data-bt-override-class="null"></div>
-                                       <div class="bt_bb_image bt_bb_shape_square bt_bb_target_self bt_bb_align_inherit bt_bb_hover_style_simple bt_bb_content_display_always bt_bb_content_align_middle" data-bt-override-class="{}"><span><img width="650" height="400" src="wp-content/uploads/slide/4.png" class="attachment-full size-full" decoding="async" sizes="(max-width: 650px) 100vw, 650px"></span></div>
-                                       <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium" data-bt-override-class="null"></div>
                                     </div>
                                  </div>
                               </div>

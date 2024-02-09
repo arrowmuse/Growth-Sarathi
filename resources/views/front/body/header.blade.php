@@ -1,32 +1,5 @@
 <header class="mainHeader btClear ">
       <div class="mainHeaderInner">
-         <div class="topBar bt-clear">
-            <div class="topBarPort port bt-clear">
-               <div class="topTools btTopToolsLeft">
-                  <div class="btIconWidget  btWidgetWithText">
-                     <div class="btIconWidgetContent"><span class="btIconWidgetTitle">Address :</span><span class="btIconWidgetText">3067, Silver Business Point, VIP Circle, Opp. Royal Square, Uttran, Surat | Gujarat - 394105</span></div>
-                  </div>
-             
-                  <div class="btIconWidget  btWidgetWithText">
-                     <div class="btIconWidgetContent"><span class="btIconWidgetTitle">Telephone :</span><span class="btIconWidgetText">+91 98258 97100</span></div>
-                  </div>
-               </div>
-               <!-- /ttLeft icons-->
-               <div class="topTools btTopToolsRight">
-                  <a href="https://www.instagram.com/growthsarathi/" target="_self" class="btIconWidget ">
-                     <div class="btIconWidgetIcon"><span  data-ico-fontawesome="&#xf16d;" class="bt_bb_icon_holder"></span></div>
-                  </a>
-                  <a href="https://www.facebook.com/profile.php?id=100092179665560" target="_self" class="btIconWidget ">
-                     <div class="btIconWidgetIcon"><span  data-ico-fontawesome="&#xf09a;" class="bt_bb_icon_holder"></span></div>
-                  </a>
-                  <a href="https://www.linkedin.com/company/94809680/" target="_self" class="btIconWidget ">
-                     <div class="btIconWidgetIcon"><span  data-ico-fontawesome="&#xf0e1;" class="bt_bb_icon_holder"></span></div>
-                  </a>
-               </div>
-               <!-- /ttRight -->
-            </div>
-            <!-- /topBarPort -->
-         </div>
          <!-- /topBar -->
          <div class="btLogoArea menuHolder btClear">
             <div class="port">
