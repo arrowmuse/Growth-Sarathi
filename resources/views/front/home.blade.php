@@ -157,7 +157,8 @@
                                              <div class="bt_bb_accordion_item_content">
                                                 <div  class="bt_bb_text" >
                                                    <a href="{{ route('services')}}">
-                                                      <p>Growth Sarathi works with you to ensure you have everything you need to start your project. We help you create a Product Spec Sheet, an RFQ, and do Product Validation so that you are fully prepared to get your product made exactly how you want it. This is to make sure that the end result is exactly the product you want but also can be understood and carried out by the manufacturer.</p>
+                                                      <h6>Project Launch Support: From Concept to Production</h6>
+                                                      <p>At Growth Sarathi, we offer comprehensive assistance to kickstart your project with confidence. Our services include crafting a detailed Product Spec Sheet, formulating RFQs, and conducting rigorous Product Validation. This meticulous process ensures that your vision is accurately translated into a tangible product, aligning seamlessly with your expectations and the capabilities of the manufacturer.</p>
                                                    </a>
                                                 </div>
                                              </div>
@@ -170,7 +171,8 @@
                                              <div class="bt_bb_accordion_item_content">
                                                 <div  class="bt_bb_text" >
                                                    <a href="{{route('services')}}">
-                                                      <p>Our team will research and identify suppliers using a wide range of resources. After that, we prequalify them based on your requirements, then create an RFQ and reach out to them to get quotes. Ultimately, we will get as many quotes as possible for you. Once finished, we'll deliver the original quotes, quotation summary, complete contact information, and introductions to the suppliers.</p>
+                                                      <h6>Supplier Discovery and Procurement</h6>
+                                                      <p>In our pursuit of sourcing excellence, our team conducts extensive research to pinpoint suitable suppliers across various channels. Following meticulous prequalification in alignment with your specifications, we compile a comprehensive RFQ and initiate contact to solicit competitive quotes. Our objective is to procure a multitude of quotes, ensuring you have ample options to consider. Upon completion, we furnish you with the original quotes, a concise summary of quotations, comprehensive contact details, and facilitate introductions to the selected suppliers.</p>
                                                    </a>
                                                 </div>
                                              </div>
@@ -183,7 +185,8 @@
                                              <div class="bt_bb_accordion_item_content">
                                                 <div  class="bt_bb_text" >
                                                    <a href="{{route('services')}}">
-                                                      <p>Growth Sarathi works with trusted partners to inspect and audit your selected factory. We will arrange for an inspector to visit the factory before production and ensure that they have all need equipment, raw materials, and proper licenses. Once it passes inspection, we will ensure that you have everything in place to start the purchase order. During production, we will check in on the progress.</p>
+                                                      <h6>Production Oversight and Quality Assurance</h6>
+                                                      <p>Growth Sarathi collaborates with reputable partners to conduct comprehensive inspections and audits of your chosen factory. Prior to commencing production, we arrange for skilled inspectors to evaluate the factory's capabilities, verifying the availability of essential equipment, raw materials, and appropriate licenses. Upon successful inspection, we facilitate the initiation of the purchase order process, ensuring all necessary components are in place. Throughout the production phase, we diligently monitor progress to maintain quality standards and address any potential issues promptly.</p>
                                                    </a>
                                                 </div>
                                              </div>
@@ -196,7 +199,8 @@
                                              <div class="bt_bb_accordion_item_content">
                                                 <div  class="bt_bb_text" >
                                                    <a href="{{route('services')}}">
-                                                      <p>We work with a freight forwarder to ship your product to its final destination. We offer guidance and advice for you at every step of the shipping process. In addition, we will provide a list of quotes from shippers and freight forwarders and oversee the shipment to ensure it goes smoothly!.</p>
+                                                      <h6>Logistics Coordination and Shipping Assistance</h6>
+                                                      <p>Collaborating closely with a trusted freight forwarder, we orchestrate the smooth transportation of your products to their designated destination. Throughout the shipping process, our dedicated team offers comprehensive guidance and support, ensuring you're well-informed at every juncture. Furthermore, we curate a selection of quotes from reputable shippers and freight forwarders, empowering you with various options to choose from. With our meticulous oversight, we guarantee a hassle-free shipment experience, meticulously monitoring each step to ensure a seamless delivery process.</p>
                                                    </a>
                                                 </div>
                                              </div>
