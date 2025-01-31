@@ -55,7 +55,7 @@
                                        <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_extra_small" data-bt-override-class="null"></div>
                                        <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
                                        <header class="bt_bb_headline bt_bb_color_scheme_4 bt_bb_dash_none bt_bb_size_small bt_bb_align_inherit" style="; --headline-primary-color:#09449f; --headline-secondary-color:#ffffff;" data-bt-override-class="{}">
-                                          <h3 class="bt_bb_headline_tag"><span class="bt_bb_headline_content"><span>Registered Office</span></span></h3>
+                                          <h3 class="bt_bb_headline_tag"><span class="bt_bb_headline_content"><span>HQ Address</span></span></h3>
                                        </header>
                                        <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
                                        <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="max-width: 350px;; --primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}"><span data-ico-dripicons="" class="bt_bb_icon_holder">
@@ -127,6 +127,94 @@
                                              </form>
                                           </div>
                                        </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </section>
+            <section id="bt_bb_section" class="bt_bb_section bt_bb_color_scheme_2 bt_bb_layout_boxed_1200 bt_bb_vertical_align_top btLazyLoadBackground bt_bb_background_image bt_bb_parallax bt_bb_top_spacing_large bt_bb_bottom_spacing_medium btLazyLoaded">
+               <div class="bt_bb_port new-contact-section">
+                  <div class="bt_bb_cell">
+                     <div class="bt_bb_cell_inner">
+                        <div class="bt_bb_row_wrapper">
+                           <div class="bt_bb_row">
+                              <div class="bt_bb_column col-12 col-xxl-4 col-xl-4 bt_bb_vertical_align_bottom bt_bb_align_center bt_bb_padding_normal bt_bb_animation_fade_in animate animated">
+                                 <div class="location-details">
+                                    <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="--primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}">
+                                       <span data-ico-dripicons="" class="bt_bb_icon_holder">
+                                          <span>
+                                             USA<br>
+                                             Ms. Neha<br>
+                                             9159 Bealls Farm Rd, Frederick, MD 21704
+                                          </span>
+                                       </span>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="bt_bb_column col-12 col-xxl-4 col-xl-4 bt_bb_vertical_align_bottom bt_bb_align_center bt_bb_padding_normal bt_bb_animation_fade_in animate animated">
+                                 <div class="location-details">
+                                    <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="--primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}">
+                                       <span data-ico-dripicons="" class="bt_bb_icon_holder">
+                                          <span>
+                                             Canada<br>
+                                             Mr. Yash<br>
+                                             135 Jackson Ave, Kitchner, ON, N2H 3P3
+                                          </span>
+                                       </span>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="bt_bb_column col-12 col-xxl-4 col-xl-4 bt_bb_vertical_align_bottom bt_bb_align_center bt_bb_padding_normal bt_bb_animation_fade_in animate animated">
+                                 <div class="location-details">
+                                    <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="--primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}">
+                                       <span data-ico-dripicons="" class="bt_bb_icon_holder">
+                                          <span>
+                                             Japan<br>
+                                             Ms. Hanae<br>
+                                             5-20 Suido-cho, Chuou-ku, Kumamoto City, Japan
+                                          </span>
+                                       </span>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="bt_bb_port new-contact-section">
+                  <div class="bt_bb_cell">
+                     <div class="bt_bb_cell_inner">
+                        <div class="bt_bb_row_wrapper">
+                           <div class="bt_bb_row">
+                              <div class="bt_bb_column col-12 col-xxl-4 col-xl-4 bt_bb_vertical_align_bottom bt_bb_align_center bt_bb_padding_normal bt_bb_animation_fade_in animate animated">
+                                 <div class="location-details">
+                                    <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="--primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}">
+                                       <span data-ico-dripicons="" class="bt_bb_icon_holder">
+                                          <span>
+                                             Mauritius<br>
+                                             Ms. Chaya<br>
+                                             Coremove Consultancy Ltd,
+                                             Address: Quatre Bornes, Mauritius
+                                          </span>
+                                       </span>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="bt_bb_column col-12 col-xxl-4 col-xl-4 bt_bb_vertical_align_bottom bt_bb_align_center bt_bb_padding_normal bt_bb_animation_fade_in animate animated">
+                                 <div class="location-details">
+                                    <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="--primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}">
+                                       <span data-ico-dripicons="" class="bt_bb_icon_holder">
+                                          <span>
+                                             Egypt<br>
+                                             Mr. Eslam Mohsen<br>
+                                             4 elskakini st, Alzaher, 11563, Cairo, Egypt
+                                          </span>
+                                       </span>
                                     </div>
                                  </div>
                               </div>

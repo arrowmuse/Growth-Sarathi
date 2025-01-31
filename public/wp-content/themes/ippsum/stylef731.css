@@ -7270,6 +7270,9 @@ div.btButtonWidget.btDarkLightButton.btFilledButton .bt_bb_icon_holder {
 .bt_bb_section.bt_bb_bottom_spacing_large > .bt_bb_port {
     padding-bottom: 8em;
     }
+.bt_bb_section.bt_bb_bottom_spacing_large > .bt_bb_port.footer-spacing{
+    padding-bottom: 4em;
+    }
 .bt_bb_section.bt_bb_bottom_spacing_extra_large > .bt_bb_port {
     padding-bottom: 16em;
     }
@@ -18873,6 +18876,51 @@ p.stars {
 /* Cost Calculator */
 .btQuoteBooking .btQuoteBookingForm .btQuoteTotal .btQuoteTotalCalc {
     margin-left: -1px;
+    }
+}
+.bt_bb_section.bt_bb_bottom_spacing_medium > .bt_bb_port.new-contact-section {
+    padding: 15px 0;
+}
+.new-contact-section .location-details {
+    border: 1px solid #eee;
+    padding: 21px 14px;
+    box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.1);
+}
+.new-contact-section .location-details .bt_bb_icon_holder span {
+    font-size: 13px;
+    text-align: start;
+}
+.bt_bb_port.new-contact-section .bt_bb_row {
+    justify-content: left;
+}
+.bt_bb_port.new-contact-section .bt_bb_row .bt_bb_column {
+    justify-content: left;
+}
+.footer-address .location-details .bt_bb_text_color_scheme_5.bt_bb_icon .bt_bb_icon_holder span {
+    color: #fff;
+    text-align: left;
+    line-height: 19px;
+}
+.footer-address .location-details .bt_bb_color_scheme_3.bt_bb_icon.bt_bb_style_borderless .bt_bb_icon_holder:before {
+    color: #ffffff;
+}
+.footer-address .location-details.bt_bb_row:last-child {
+    justify-content: left;
+    margin-top: 30px;
+    margin-bottom: 21px;
+}
+.location-details, .footer-address .location-details.bt_bb_row .bt_bb_icon_holder {
+    text-align: left;
+}
+@media only screen and (max-width: 575px) {
+    .bt_bb_section.bt_bb_bottom_spacing_large > .bt_bb_port.footer-spacing{
+        padding-bottom: 0;
+    }
+    .new-contact-section .bt_bb_column {
+        width: 100%;
+        max-width: 100%;
+        flex: auto;
+        margin-bottom: 17px;
     }
 }
 

@@ -142,7 +142,7 @@
          <div class="btSiteFooter">
             <div class="bt_bb_wrapper">
                <section id="bt_bb_section647093deb8bdd" data-parallax="0.7" data-parallax-offset="0" data-background_image_src="'wp-content/uploads/sites/5/2020/05/background_footer_01.jpg'" class="bt_bb_section bt_bb_color_scheme_6 bt_bb_layout_boxed_1200 bt_bb_top_coverage_left_large_triangle bt_bb_vertical_align_top btLazyLoadBackground bt_bb_background_image bt_bb_parallax bt_bb_top_spacing_extra_large bt_bb_bottom_spacing_large" style="background-image:url(wp-content/uploads/sites/5/2020/05/background_footer_01.jpg);--section-primary-color:#ffffff; --section-secondary-color:#09449f;" data-bt-override-class="null">
-                  <div class="bt_bb_port">
+                  <div class="bt_bb_port footer-spacing">
                      <div class="bt_bb_cell">
                         <div class="bt_bb_cell_inner">
                            <div class="bt_bb_row_wrapper">
@@ -266,6 +266,80 @@
                                  </div>
                               </div>
                            </div>
+                           <div class="bt_bb_row_wrapper">
+                              <div class="footer-address">
+                                 <div class="location-details bt_bb_row">
+                                    <div class="bt_bb_column col-12 col-xxl-4 col-xl-4 bt_bb_vertical_align_bottom bt_bb_align_center bt_bb_padding_normal bt_bb_animation_fade_in animate animated">
+                                       <div class="location-details">
+                                          <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="--primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}">
+                                             <span data-ico-dripicons="" class="bt_bb_icon_holder">
+                                                <span>
+                                                   USA<br>
+                                                   Ms. Neha<br>
+                                                   9159 Bealls Farm Rd, Frederick, MD 21704
+                                                </span>
+                                             </span>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="bt_bb_column col-12 col-xxl-4 col-xl-4 bt_bb_vertical_align_bottom bt_bb_align_center bt_bb_padding_normal bt_bb_animation_fade_in animate animated">
+                                       <div class="location-details">
+                                          <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="--primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}">
+                                             <span data-ico-dripicons="" class="bt_bb_icon_holder">
+                                                <span>
+                                                   Canada<br>
+                                                   Mr. Yash<br>
+                                                   135 Jackson Ave, Kitchner, ON, N2H 3P3
+                                                </span>
+                                             </span>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="bt_bb_column col-12 col-xxl-4 col-xl-4 bt_bb_vertical_align_bottom bt_bb_align_center bt_bb_padding_normal bt_bb_animation_fade_in animate animated">
+                                       <div class="location-details">
+                                          <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="--primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}">
+                                             <span data-ico-dripicons="" class="bt_bb_icon_holder">
+                                                <span>
+                                                   Japan<br>
+                                                   Ms. Hanae<br>
+                                                   5-20 Suido-cho, Chuou-ku, Kumamoto City, Japan
+                                                </span>
+                                             </span>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div class="location-details bt_bb_row">
+                                    <div class="bt_bb_column col-12 col-xxl-4 col-xl-4 bt_bb_vertical_align_bottom bt_bb_align_center bt_bb_padding_normal bt_bb_animation_fade_in animate animated">
+                                       <div class="location-details">
+                                          <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="--primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}">
+                                             <span data-ico-dripicons="" class="bt_bb_icon_holder">
+                                                <span>
+                                                   Mauritius<br>
+                                                   Ms. Chaya<br>
+                                                   Coremove Consultancy Ltd,<br>
+                                                   Address: Quatre Bornes, Mauritius
+                                                </span>
+                                             </span>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="bt_bb_column col-12 col-xxl-4 col-xl-4 bt_bb_vertical_align_bottom bt_bb_align_center bt_bb_padding_normal bt_bb_animation_fade_in animate animated">
+                                       <div class="location-details">
+                                          <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="--primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}">
+                                             <span data-ico-dripicons="" class="bt_bb_icon_holder">
+                                                <span>
+                                                   Egypt<br>
+                                                   Mr. Eslam Mohsen<br>
+                                                   4 elskakini st, Alzaher, 11563, Cairo, Egypt
+                                                </span>
+                                             </span>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
                            <!-- Start::Copyright Section -->
                            <div class="bt_bb_row_wrapper">
                               <div  class="bt_bb_row"  data-bt-override-class="{}">
@@ -275,7 +349,7 @@
                                           <div  class="bt_bb_text" style="opacity: 0.5;">
                                              <p>
                                                 <small style="font-size: 15px;">
-                                                  <strong> &copy; <?php echo date('Y'); ?>Growth Sarati. All Rights Reserved.</strong>
+                                                  <strong> &copy; <?php echo date('Y'); ?>Growth Sarathi. All Rights Reserved.</strong>
                                                 </small>
                                              </p>
                                           </div>
