@@ -368,7 +368,7 @@
                                              <div class="bt_bb_card_icon_text_inner">
                                                 <h6 class="bt_bb_card_icon_title" style="font-size:20px;">Quality Focus</h6>
                                                 <div>
-                                                   <p>We prioritize quality control to meet your expectations</p>                                                    
+                                                   <p>We prioritize quality control to meet your expectations</p>
                                                 </div>
                                              </div>
                                           </div>
@@ -536,7 +536,7 @@
                                              <div class="bt_bb_image" data-bt-override-class="{}"><span><img width="81" height="13" src="{{asset('wp-content/uploads/sites/5/2020/06/floating_image_2.png')}}" class="attachment-full size-full"  decoding="async"></span></div>
                                           </div>
                                        </div>
-                                        
+
                                        <header class="bt_bb_headline bt_bb_supertitle_style_transparent bt_bb_dash_none bt_bb_size_normal bt_bb_superheadline bt_bb_align_inherit" data-bt-override-class="{}">
                                           <h2 class="bt_bb_headline_tag">
                                              <span class="bt_bb_headline_superheadline">
@@ -830,7 +830,7 @@
          <!-- End::Testimonial -->
          <!-- Start::News and Blog Updates -->
          <section id="bt_bb_section64788f00aa3b2" data-parallax="0.7" data-parallax-offset="-200" data-background_image_src="'https://ippsum.bold-themes.com/pax/wp-content/uploads/sites/5/2020/07/background_dots_04.png'" class="bt_bb_section bt_bb_color_scheme_2 bt_bb_layout_boxed_1200 bt_bb_vertical_align_top btLazyLoadBackground bt_bb_background_image bt_bb_parallax bt_bb_top_spacing_large bt_bb_bottom_spacing_medium btLazyLoaded" style="background-image: url(&quot;https://ippsum.bold-themes.com/pax/wp-content/uploads/sites/5/2020/07/background_dots_04.png&quot;); --section-primary-color: #000000; --section-secondary-color: #ffffff; background-position-y: -228.004px;" data-bt-override-class="null">
-            <div class="bt_bb_port">
+            <div class="bt_bb_port" style="padding-top: 0">
                <div class="bt_bb_cell">
                   <div class="bt_bb_cell_inner">
                      <div class="bt_bb_row_wrapper">
@@ -848,7 +848,7 @@
                                     <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
                                     <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="max-width: 350px;; --primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}"><span data-ico-dripicons="" class="bt_bb_icon_holder">
                                        <span>
-                                       3067, Silver Business Point, VIP Circle, Opp. Royal Square, 
+                                       3067, Silver Business Point, VIP Circle, Opp. Royal Square,
                                        Uttran, Surat <br>(Gujarat) 394105
                                        </span>
                                        </span>

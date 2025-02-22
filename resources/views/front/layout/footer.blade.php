@@ -1,7 +1,7 @@
 <div class="btSiteFooter">
    <div class="bt_bb_wrapper">
       <section id="bt_bb_section647093deb8bdd" data-parallax="0.7" data-parallax-offset="0" data-background_image_src="'https://ippsum.bold-themes.com/pax/wp-content/uploads/sites/5/2020/05/background_footer_01.jpg'" class="bt_bb_section bt_bb_color_scheme_6 bt_bb_layout_boxed_1200 bt_bb_top_coverage_left_large_triangle bt_bb_vertical_align_top btLazyLoadBackground bt_bb_background_image bt_bb_parallax bt_bb_top_spacing_extra_large bt_bb_bottom_spacing_large" style="background-image:url(https://ippsum.bold-themes.com/pax/wp-content/uploads/sites/5/2020/05/background_footer_01.jpg);--section-primary-color:#ffffff; --section-secondary-color:#09449f;" data-bt-override-class="null">
-         <div class="bt_bb_port footer-spacing">
+         <div class="bt_bb_port footer-spacing" style="padding-bottom: 1em;">
             <div class="bt_bb_cell">
                <div class="bt_bb_cell_inner">
                   <div class="bt_bb_row_wrapper">
@@ -171,7 +171,7 @@
                      </div>
                   </div>
                   <!-- Start::Copyright Section -->
-                  <div class="bt_bb_row_wrapper">
+                  <div class="bt_bb_row_wrapper" style="padding-top: 2em;">
                      <div  class="bt_bb_row"  data-bt-override-class="{}">
                         <div  class="bt_bb_column col-xxl-8 col-xl-8 bt_bb_vertical_align_bottom bt_bb_align_left bt_bb_padding_normal bt_bb_animation_fade_in animate"  data-width="8" data-bt-override-class="{}">
                            <div class="bt_bb_column_content">
