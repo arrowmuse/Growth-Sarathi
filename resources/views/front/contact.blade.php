@@ -24,7 +24,7 @@
                                        </header>
                                        <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
                                        <div class="bt_bb_text">
-                                
+
                                           <div class="bt_bb_button bt_bb_color_scheme_13 bt_bb_icon_position_left bt_bb_style_filled_gradient bt_bb_size_normal bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#09449f; --secondary-color:#3366cc;" data-bt-override-class="{}"><a href="https://calendly.com/growthsarathi/consulting-meeting-purpose" target="_blank" class="bt_bb_link" title="Book A Meeting">Book a FREE Call</span></a></div>
                                        </div>
                                        <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal bt_bb_hidden_xs bt_bb_hidden_ms bt_bb_hidden_sm" data-bt-override-class="null"></div>
@@ -60,7 +60,7 @@
                                        <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
                                        <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="max-width: 350px;; --primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}"><span data-ico-dripicons="" class="bt_bb_icon_holder">
                                           <span>
-                                          3067, Silver Business Point, VIP Circle, Opp. Royal Square, 
+                                          3067, Silver Business Point, VIP Circle, Opp. Royal Square,
                                           Uttran, Surat <br>(Gujarat) 394105
                                           </span>
                                           </span>
@@ -212,7 +212,7 @@
                                           <span>
                                              Egypt<br>
                                              Mr. Eslam Mohsen<br>
-                                             4 elskakini st, Alzaher, 11563, Cairo, Egypt
+                                             4 elskakini st, Alzaher, 11563, Cairo, Egypt<br />
                                           </span>
                                        </span>
                                     </div>
@@ -222,11 +222,11 @@
                                  <div class="location-details">
                                     <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="--primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}">
                                        <span data-ico-dripicons="" class="bt_bb_icon_holder">
-                                          <span>
-                                             China<br>
-                                             Mr. Michel<br>
-                                             Zhenye International Business Center, Qianhai Road, Nanshan District, Shenzhen, China.
-                                          </span>
+                                            <span>
+                                                China<br>
+                                                Ms. Viana<br>
+                                                Zhenye International Business Center, Qianhai Road, Nanshan District, Shenzhen, China.
+                                            </span>
                                        </span>
                                     </div>
                                  </div>

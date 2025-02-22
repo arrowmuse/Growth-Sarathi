@@ -1,4 +1,4 @@
-/* 
+/*
 Theme Name: Ippsum
 Theme URI: https://ippsum.bold-themes.com
 Description: Business Consulting theme.
@@ -17,7 +17,7 @@ All HTML/CSS/JAVASCRIPT code is released under Envato's Regular/Extended License
 
 1. Base
 2. Typography
-3. Bootstrap grid 
+3. Bootstrap grid
 4. Template
 5. Header
 6. Footer
@@ -18885,6 +18885,7 @@ p.stars {
     border: 1px solid #eee;
     padding: 21px 14px;
     box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.1);
+    min-height: 112px;
 }
 .new-contact-section .location-details .bt_bb_icon_holder span {
     font-size: 13px;

@@ -1014,7 +1014,7 @@
                                     <span data-ico-dripicons="" class="bt_bb_icon_holder">
                                        <span>
                                           China<br>
-                                          Mr. Michel<br>
+                                          Ms. Viana<br>
                                           Zhenye International Business Center, Qianhai Road, Nanshan District, Shenzhen, China.
                                        </span>
                                     </span>
