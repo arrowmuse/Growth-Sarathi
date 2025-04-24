@@ -1,3 +1,8 @@
+<style>
+    .bt_bb_color_scheme_3.bt_bb_icon.bt_bb_style_borderless .bt_bb_icon_holder:before {
+        color: #fff
+    }
+</style>
 <div class="btSiteFooter">
    <div class="bt_bb_wrapper">
       <section id="bt_bb_section647093deb8bdd" data-parallax="0.7" data-parallax-offset="0" data-background_image_src="'https://ippsum.bold-themes.com/pax/wp-content/uploads/sites/5/2020/05/background_footer_01.jpg'" class="bt_bb_section bt_bb_color_scheme_6 bt_bb_layout_boxed_1200 bt_bb_top_coverage_left_large_triangle bt_bb_vertical_align_top btLazyLoadBackground bt_bb_background_image bt_bb_parallax bt_bb_top_spacing_extra_large bt_bb_bottom_spacing_large" style="background-image:url(https://ippsum.bold-themes.com/pax/wp-content/uploads/sites/5/2020/05/background_footer_01.jpg);--section-primary-color:#ffffff; --section-secondary-color:#09449f;" data-bt-override-class="null">
@@ -13,7 +18,19 @@
                                     <img width="250" src="{{asset('wp-content/uploads/logo/logo_white.png')}}" class="attachment-full size-full" decoding="async" loading="lazy" title="footer_logo_02"/>
                                     </span>
                                  </div>
-                                 <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium" data-bt-override-class="null"></div>
+                                 {{-- <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium" data-bt-override-class="null"></div> --}}
+                                 <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
+                                 <div class="bt_bb_icon bt_bb_color_scheme_6 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_blank bt_bb_text_empty bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#1659b5;" data-bt-override-class="{}">
+                                    <a href="https://www.facebook.com/profile.php?id=100092179665560"  target="_blank"   data-ico-fontawesome="&#xf09a;" class="bt_bb_icon_holder"></a>
+                                 </div>
+                                 <div class="bt_bb_icon bt_bb_color_scheme_6 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_blank bt_bb_text_empty bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#1659b5;" data-bt-override-class="{}">
+                                    <a href="https://www.linkedin.com/company/94809680/"  target="_blank"   data-ico-fontawesome="&#xf0e1;" class="bt_bb_icon_holder"></a>
+                                 </div>
+                                 <div class="bt_bb_icon bt_bb_color_scheme_6 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_blank bt_bb_text_empty bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#1659b5;" data-bt-override-class="{}">
+                                    <a href="https://www.instagram.com/growthsarathi/"  target="_blank"   data-ico-fontawesome="&#xf16d;" class="bt_bb_icon_holder"></a>
+                                 </div>
+                                 <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_small" data-bt-override-class="null"></div>
+
                               </div>
                            </div>
                         </div>
@@ -66,39 +83,38 @@
                                  <header class="bt_bb_headline bt_bb_dash_none bt_bb_size_extrasmall bt_bb_align_inherit" data-bt-override-class="{}">
                                     <h5 class="bt_bb_headline_tag"><span class="bt_bb_headline_content"><span>Connect with us</span></span></h5>
                                  </header>
-                                 <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
-                                 <div class="bt_bb_icon bt_bb_color_scheme_6 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_blank bt_bb_text_empty bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#1659b5;" data-bt-override-class="{}">
-                                    <a href="https://www.facebook.com/profile.php?id=100092179665560"  target="_blank"   data-ico-fontawesome="&#xf09a;" class="bt_bb_icon_holder"></a>
+                                 <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" style="margin-bottom: 1rem" data-bt-override-class="null"></div>
+                                 <h6 class="bt_bb_headline_tag"><span class="bt_bb_headline_content"><span>Head Office</span></span></h6>
+                                 <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="color: white" data-bt-override-class="{}">
+                                    <span data-ico-dripicons="" class="bt_bb_icon_holder" style="color: white">
+                                        <span style="color: #fff">8 The Green, STE A, Dover, Delaware, USA</span>
+                                     </span>
                                  </div>
-                                 <div class="bt_bb_icon bt_bb_color_scheme_6 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_blank bt_bb_text_empty bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#1659b5;" data-bt-override-class="{}">
-                                    <a href="https://www.linkedin.com/company/94809680/"  target="_blank"   data-ico-fontawesome="&#xf0e1;" class="bt_bb_icon_holder"></a>
+                                <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" style="margin-bottom: 1rem" data-bt-override-class="null"></div>
+                                 <h6 class="bt_bb_headline_tag"><span class="bt_bb_headline_content"><span>Corporate Office</span></span></h6>
+                                 <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="color: white" data-bt-override-class="{}">
+                                    <span data-ico-dripicons="" class="bt_bb_icon_holder" style="color: white">
+                                        <span style="color: #fff">3067, Silver Business Point, VIP Circle, Opp. Royal Square, Uttran, Surat Gujarat-394105</span>
+                                     </span>
                                  </div>
-                                 <div class="bt_bb_icon bt_bb_color_scheme_6 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_blank bt_bb_text_empty bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#1659b5;" data-bt-override-class="{}">
-                                    <a href="https://www.instagram.com/growthsarathi/"  target="_blank"   data-ico-fontawesome="&#xf16d;" class="bt_bb_icon_holder"></a>
-                                 </div>
-                                 <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_small" data-bt-override-class="null"></div>
+
+                                 <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" style="margin-bottom: 1rem" data-bt-override-class="null"></div>
                                  <div class="bt_bb_icon bt_bb_color_scheme_1 bt_bb_style_outline bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#000000;" data-bt-override-class="{}">
                                     <span  data-ico-dripicons="&#xe98e;" class="bt_bb_icon_holder">
-                                    <span>
-                                    <a href="tel:+919825897100"> +91 98258 97100</a>
-                                    </span>
+                                        <span>
+                                            <a href="tel:+919825897100"> +91 98258 97100</a>
+                                        </span>
                                     </span>
                                  </div>
-                                 <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_small" data-bt-override-class="null"></div>
-                                 <div  class="bt_bb_text" >
-                                    <p>3067, Silver Business Point, VIP Circle, Opp. <br>
-                                       Royal Square, Uttran, Surat <br>Gujarat-394105
-                                    </p>
-                                 </div>
-                                 <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
+
                               </div>
                            </div>
                         </div>
                      </div>
                   </div>
-                  <div class="bt_bb_row_wrapper">
+                  <div class="bt_bb_row_wrapper" style="margin-top: 1rem">
                      <div class="footer-address">
-                        <div class="location-details bt_bb_row">
+                        <div class="location-details bt_bb_row" style="margin-bottom: 1rem">
                            <div class="bt_bb_column col-12 col-xxl-4 col-xl-4 bt_bb_vertical_align_bottom bt_bb_align_center bt_bb_padding_normal bt_bb_animation_fade_in animate animated">
                               <div class="location-details">
                                  <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="--primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}">
@@ -139,7 +155,7 @@
                               </div>
                            </div>
                         </div>
-                        <div class="location-details bt_bb_row">
+                        <div class="location-details bt_bb_row" style="margin-bottom: 1rem">
                            <div class="bt_bb_column col-12 col-xxl-4 col-xl-4 bt_bb_vertical_align_bottom bt_bb_align_center bt_bb_padding_normal bt_bb_animation_fade_in animate animated">
                               <div class="location-details">
                                  <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="--primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}">
