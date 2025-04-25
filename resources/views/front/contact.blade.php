@@ -143,7 +143,7 @@
                   </div>
                </div>
             </section>
-            <section id="bt_bb_section" class="bt_bb_section bt_bb_color_scheme_2 bt_bb_layout_boxed_1200 bt_bb_vertical_align_top btLazyLoadBackground bt_bb_background_image bt_bb_parallax bt_bb_top_spacing_large bt_bb_bottom_spacing_medium btLazyLoaded">
+            <section id="bt_bb_section" class="bt_bb_section bt_bb_color_scheme_2 bt_bb_layout_boxed_1200 bt_bb_vertical_align_top btLazyLoadBackground bt_bb_background_image bt_bb_parallax bt_bb_top_spacing_large bt_bb_bottom_spacing_medium btLazyLoaded" style="display: none">
                <div class="bt_bb_port new-contact-section">
                   <div class="bt_bb_cell">
                      <div class="bt_bb_cell_inner">
