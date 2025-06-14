@@ -870,7 +870,7 @@
                                        </span>
                                     </div>
                                     <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_extra_small" data-bt-override-class="null"></div>
-                                    <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_font_weight_normal" style="; --primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}"><span data-ico-dripicons="" class="bt_bb_icon_holder"><span>chirag@growthsarathi.com</span></span></div>
+                                    <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_font_weight_normal" style="; --primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}"><span data-ico-dripicons="" class="bt_bb_icon_holder"><span>info@growthsarathi.com</span></span></div>
                                  </div>
                               </div>
                            </div>

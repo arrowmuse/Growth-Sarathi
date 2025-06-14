@@ -238,6 +238,34 @@
                             </div>
                          </div>
                         </div>
+                        <div class="location-details bt_bb_row">
+                           <div class="bt_bb_column col-12 col-xxl-4 col-xl-4 bt_bb_vertical_align_bottom bt_bb_align_center bt_bb_padding_normal bt_bb_animation_fade_in animate animated">
+                              <div class="location-details">
+                                 <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="--primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}">
+                                    <span data-ico-dripicons="" class="bt_bb_icon_holder">
+                                       <span>
+                                            Brazil <br>
+                                            Mr. Rogerio<br>
+                                            Av. Carlos Correa Borges, 1130 - Conj. Hab. Inocente Vila Nova Júnior, Maringá - Parana, Brazil
+                                       </span>
+                                    </span>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="bt_bb_column col-12 col-xxl-4 col-xl-4 bt_bb_vertical_align_bottom bt_bb_align_center bt_bb_padding_normal bt_bb_animation_fade_in animate animated">
+                              <div class="location-details">
+                                 <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="--primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}">
+                                    <span data-ico-dripicons="" class="bt_bb_icon_holder">
+                                       <span>
+                                            Spain<br>
+                                            Mr. Miguel<br>
+                                            C/ Batalla de las flores, 9, Murcia, 30008, Spain
+                                       </span>
+                                    </span>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
                      </div>
                   </div>
                   <!-- Start::Copyright Section -->

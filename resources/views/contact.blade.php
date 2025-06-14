@@ -48,7 +48,7 @@
                   <span>
                   <a href="{{ url('/')}}">
                   <img class="btMainLogo" data-hw="2.4166666666667" style="height:40px; margin: 5px;" src="wp-content/uploads/logo/logo_white.png" alt="Logo">
-                  </a>          
+                  </a>
                   </span>
                </div>
                <!-- /logo -->
@@ -68,7 +68,7 @@
                         <a href="{{ url('/')}}">
                         <img class="btMainLogo" style="padding: 10px;" data-hw="2.4166666666667" src="wp-content/uploads/logo/logo_white.png" alt="logo">
                         <img class="btAltLogo" style="padding: 10px;" src="wp-content/uploads/logo/logo_black.png" alt="logo">
-                        </a>                 
+                        </a>
                         </span>
                      </div>
                      <!-- /logo -->
@@ -97,7 +97,7 @@
                               <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1580">
                                  <a href="{{ url('about-us')}}">About</a>
                                  <ul class="sub-menu">
-                                   <li id="menu-item-1582" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-1582"><a href="{{ url('about-us')}}">About Us</a></li> 
+                                   <li id="menu-item-1582" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-1582"><a href="{{ url('about-us')}}">About Us</a></li>
                                     <li id="menu-item-2494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2494"><a href="{{ url('team')}}">Our Team</a></li>
                                  </ul>
                               </li>
@@ -165,7 +165,7 @@
                                              </div>
                                           </div>
                                        </div>
-                                       
+
                                     </div>
                                  </div>
                               </div>
@@ -211,7 +211,7 @@
                                                 <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
                                                 <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_position_top" style="max-width: 350px;; --primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}"><span data-ico-dripicons="" class="bt_bb_icon_holder">
                                                    <span>
-                                                      3067, Silver Business Point, VIP Circle, Opp. Royal Square, 
+                                                      3067, Silver Business Point, VIP Circle, Opp. Royal Square,
                                                       Uttran, Surat <br>(Gujarat) 394105
                                                    </span>
                                                 </span>
@@ -225,7 +225,7 @@
                                                    </span>
                                                 </div>
                                                 <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_extra_small" data-bt-override-class="null"></div>
-                                                <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_font_weight_normal" style="; --primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}"><span data-ico-dripicons="" class="bt_bb_icon_holder"><span>chirag@growthsarathi.com</span></span></div>
+                                                <div class="bt_bb_icon bt_bb_color_scheme_3 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit bt_bb_text_color_scheme_5 bt_bb_font_weight_normal" style="; --primary-color:#09449f; --secondary-color:#000000;; --text-primary-color:#000000; --text-secondary-color:#09449f;" data-bt-override-class="{}"><span data-ico-dripicons="" class="bt_bb_icon_holder"><span>info@growthsarathi.com</span></span></div>
                                              </div>
                                           </div>
                                        </div>
@@ -370,7 +370,7 @@
                                                    <li id="menu-item-2763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2763"><a href="{{ url('operational-excellence')}}">Operational Excellence</a></li>
                                                    <li id="menu-item-2764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2764"><a href="{{ url('marketing-services')}}">Marketing Services</a></li>
                                                    <li id="menu-item-2762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2762"><a href="{{ url('fund-raising')}}">Fund Raising</a></li>
-                                                   
+
                                                 </ul>
                                              </div>
                                           </div>
@@ -388,7 +388,7 @@
                                              <h5 class="bt_bb_headline_tag"><span class="bt_bb_headline_content"><span>Connect with us</span></span></h5>
                                           </header>
                                           <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
-               
+
                                           <div class="bt_bb_icon bt_bb_color_scheme_6 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_blank bt_bb_text_empty bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#1659b5;" data-bt-override-class="{}">
                                              <a href="https://www.facebook.com/profile.php?id=100092179665560"  target="_blank"   data-ico-fontawesome="&#xf09a;" class="bt_bb_icon_holder"></a>
                                           </div>
@@ -400,7 +400,7 @@
                                           <div class="bt_bb_icon bt_bb_color_scheme_6 bt_bb_style_borderless bt_bb_size_small bt_bb_shape_circle bt_bb_target_blank bt_bb_text_empty bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#1659b5;" data-bt-override-class="{}">
                                              <a href="https://www.instagram.com/growthsarathi/"  target="_blank"   data-ico-fontawesome="&#xf16d;" class="bt_bb_icon_holder"></a>
                                           </div>
-                                    
+
                                           <div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_small" data-bt-override-class="null"></div>
                                           <div class="bt_bb_icon bt_bb_color_scheme_1 bt_bb_style_outline bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#000000;" data-bt-override-class="{}">
                                              <span  data-ico-dripicons="&#xe98e;" class="bt_bb_icon_holder">
